@@ -1,0 +1,7 @@
+napisać dwie aplikację w C, jedna wykorzystująca bibliotekę statyczną, drugą
+wykorzystującą bibliotekę dynamiczną.
+
+# todo
+- dynamiczna libka
+
+Wysłać mailowo kod oraz plik tekstowy z krótkim opisem różnic między oboma podejściami.
