@@ -1,6 +1,4 @@
-// Filip Domaszk
-// 197624
-
+// Filip Domaszk 197624 [7B] lab2
 #include <stdio.h>
 #include <stdlib.h>
 #include "single_linked_list.h"

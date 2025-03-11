@@ -1,3 +1,4 @@
+// Filip Domaszk 197624 [7B] lab2
 #include <stdio.h>
 
 int main(int argc, char** argv) {
