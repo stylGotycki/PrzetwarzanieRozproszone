@@ -1,4 +1,4 @@
-// Filip Domaszk 197624 [7B] lab2
+// Filip Domaszk 197624 [7B] lab3
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
