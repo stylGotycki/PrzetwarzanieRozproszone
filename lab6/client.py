@@ -1,8 +1,8 @@
+# Filip Domaszk 197624 [7B] lab6
 import socket
-import random
 from vars import *
 
-# Klient wysyła liczbę do serwera, otrzymuje komunikat czy podana liczba była pierwsza.
+# Klient wysyła liczbę do serwera, następnie otrzymuje komunikat czy podana liczba była pierwsza.
 # Jeżeli nie wysłał liczby dostaje komunikat o błędzie.
 # Jeżeli wpisze polecenie `exit` zakończy komunikację.
 
@@ -22,6 +22,7 @@ def send_disconnect():
 print("Type exit to stop the program!")
 while True:
     x = input("<client> Enter a number: ")
+    
     if x == 'exit':
         send_disconnect()
         break

@@ -1,4 +1,4 @@
-// Filip Domaszk 197624 [7B] lab4
+// Filip Domaszk 197624 [7B] lab5
 #include <windows.h>
 #include <stdio.h>
 #define NUM_PROCESSES 5
